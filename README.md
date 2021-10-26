@@ -10,5 +10,6 @@ Technologies:
 - PostgreSQL
 - Pandas
 - Heroku
+- SQLAlchemy
 
-## My web app will analise given data about travelling, such as countries, prices, hotels, rates etc.
+## My web app will analise given data about travelling, such as countries, foreign arrivals and domestic trips
