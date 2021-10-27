@@ -5,6 +5,7 @@ import plotly.express as px
 
 
 app = Dash(__name__)
+server = app.server
 
 df = pd.read_sql_query("SELECT * FROM trips", con=engine)
 
