@@ -11,5 +11,8 @@ Technologies:
 - Pandas
 - Heroku
 - SQLAlchemy
+- GitHub Actions
+- Plotly
 
-## My web app will analise given data about travelling, such as countries, foreign arrivals and domestic trips
+## My web app will analise given data about travelling, such as countries, foreign arrivals and domestic trips.
+## It also uses CI/CD technologies by GitHub Actions.
