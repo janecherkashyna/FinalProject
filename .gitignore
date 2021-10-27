@@ -3,4 +3,4 @@ venv/
 *.pyc
 .env
 .DS_Store
-.ini
+database.ini
